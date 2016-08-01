@@ -1,0 +1,28 @@
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+body {
+  font: 38px/58px 'Poiret One', cursive;
+  color: #8BC8B9;
+  }
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  }
+h1 {
+  font: 105px/156px 'Stalemate', cursive;
+  color: #CECECE;
+  }
+.box01 {
+  background-color: #9A9BD3;
+  padding: 10px;
+  }
+.box01:hover {
+  background-color: #383636;
+  transition-duration: 5s;
+  cursor: pointer;
+  }
